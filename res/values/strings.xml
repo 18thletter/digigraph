@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">DigiGraph</string>
+    <string name="menu_done">Done - go to photo</string>
+    <string name="menu_clear">Clear</string>
+</resources>
